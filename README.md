@@ -6,7 +6,7 @@ ICT student at the University of Turku
 
 * 🌍  I'm based in Turku, Finland
 * ✉️  You can contact me at [tamminenleo1@gmail.com](mailto:tamminenleo1@gmail.com)
-* 🧠  I'm learning how to use llm's inside Docker containers with my own data.
+* 🧠  I'm currently learning to use llm's inside Docker containers with my own data.
 
 ### Skills
 
