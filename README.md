@@ -5,8 +5,6 @@ ICT student at the University of Turku
 --------------------------------------
 
 * 🌍  I'm based in Turku, Finland
-* ✉️  You can contact me at [tamminenleo1@gmail.com](mailto:tamminenleo1@gmail.com)
-* 🧠  I'm currently learning C.
 
 ### Skills
 
